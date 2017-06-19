@@ -13,7 +13,7 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Jekyll Metro'
 tagline:          'A Metro theme for Jekyll'
 description:      'A Sample blog using Jekyll Metro'
-url:              'http://rupeshdabbir.github.io'
+url:              'https://rupeshdabbir.github.io'
 baseurl:          ''
 
 # Navigation
