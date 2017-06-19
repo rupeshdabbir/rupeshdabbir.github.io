@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Jekyll Metro
 
-You can use the [editor on GitHub](https://github.com/rupeshdabbir/rupeshdabbir.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Jekyll Metro is a metro inspired theme for [Jekyll](http://jekyllrb.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Summary
 
-### Markdown
+Jekyll Metro is a theme built on top of bootstrap and other freely available libraries. Its aimed to provide a fully furnished Jekyll theme for personal sites with blog. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Version 1.0 Development (Beta 2 Released!)
 
-```markdown
-Syntax highlighted code block
+New features include:
+- Light box feature
+- Social media share widget
+- New colors
 
-# Header 1
-## Header 2
-### Header 3
+Currently I am busy with other project and will devote less time in developing this theme forward. Updates and enhancements are welcome.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Features
 
-**Bold** and _Italic_ and `Code` text
+- Responsive Jekyll theme
+- Metro style Homepage
+  - Configurable tiles with different size
+  - Configurable colors for tiles
+  - Display of Latest and Recent articles as tiles
+- Pages for About Me, Resume with configurable color themes
+- Blog home page with listing of articles in pagination
+- Blog article page with configurable color themes
+- Easy integration with Google Analytics
+- Easy integration with Disqus for comments
+- Easy integration with txtpen for highlights
 
-[Link](url) and ![Image](src)
-```
+## Demo
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You can see the live demo of this theme at [http://blog-olakara.rhcloud.com](http://blog-olakara.rhcloud.com)
 
-### Jekyll Themes
+## Author
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rupeshdabbir/rupeshdabbir.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**[Abdel Raoof Olakara](http://abdelraoof.com)**
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contributors
+
+**Stilyan Kongalov**
+- <https://github.com/Stilyan-Kangalov>
+
+**Peter Zhu**
+- <https://github.com/ZhuFengdaaa>
+
+
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+<3
