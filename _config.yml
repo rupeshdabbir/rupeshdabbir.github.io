@@ -10,9 +10,9 @@ gems: [jekyll-paginate]
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Jekyll Metro'
-tagline:          'A Metro theme for Jekyll'
-description:      'A Sample blog using Jekyll Metro'
+title:            'Rupesh Dabbir'
+tagline:          'Engineer by Profession and Photographer by passion. JavaScript Enthusiast!'
+description:      'SMALL things make big IMPACT!'
 url:              'https://rupeshdabbir.github.io'
 baseurl:          ''
 
@@ -33,21 +33,21 @@ navigation:
 
 
 # Author Details
-author:         'Abdel Raoof Olakara'
+author:         'Rupesh Dabbir'
 
 #Social Media links (Use complete URL except for email)
 dribbble:
 email:
-facebook:       'https://www.facebook.com/olakara'
+facebook:       'https://www.facebook.com/rupeshdabbir'
 flickr:
-github:         'https://github.com/olakara'
-gplus:          'https://plus.google.com/100425464897246255887/'
+github:         'https://github.com/rupeshdabbir'
+gplus:          'https://google.com'
 instagram:
 pinterest:
-linkedin:       'https://ae.linkedin.com/in/olakara/'
+linkedin:       'https://linkedin.com/in/rdabbir/'
 rss:
-stackoverflow:  'http://stackoverflow.com/users/185655/abdel-raoof'
-twitter:        'https://twitter.com/olakara'
+stackoverflow:  'https://stackoverflow.com/users/1625557/technocorner'
+twitter:        'https://twitter.com/whoisrupesh'
 
 # Google Analytics
 gahandler: 'UA-52149651-1'
